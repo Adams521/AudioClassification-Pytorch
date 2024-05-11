@@ -1,4 +1,5 @@
 print("运行教程请联系代做vx:18372607382")
+exit()
 import argparse
 import functools
 
